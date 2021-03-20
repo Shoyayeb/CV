@@ -1,0 +1,23 @@
+.responsive {
+    border-radius: 50%;
+    width: 100%;
+    height: auto;
+    max-width: 280px;
+}
+body {
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+ul {
+    text-shadow: 1px 1px darkgray;
+}
+.poriciti {
+    font-family: font-family: 'Noto Sans JP', sans-serif;;
+}
+#hobic {
+    font-size: 110%;
+    display: block;    
+    padding: 12px;
+    text-decoration: none;
+}
+
